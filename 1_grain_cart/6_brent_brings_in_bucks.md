@@ -3,8 +3,6 @@
 - Variable scope
 - Function arguments
 
-## Scenario
-
 Your dad wants to know about how much money all these loads are worth. You will need to add more to your program to keep track!
 
 ## Tasks

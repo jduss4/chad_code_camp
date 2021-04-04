@@ -4,12 +4,13 @@ This course is intended as supplementary material to a "programming logic" cours
 
 Each exercise should take about 15 to 20 minutes.
 
-- [The Grain Cart](1_grain_cart/1_hello_brent.md)
+- [Week 1](1_grain_cart/README.md): The Grain Cart
   - variables
   - conditionals / while
   - functions and documentation
 
-- [Banjo Catzooie](2_banjo_catzooie/1_hello_banjo.md)
-  - debugging / fixing
+- [Week 2](2_cat_weather/README.md): Cats and Weather
+  - debugging code
   - function review
   - lists / tuples
+  - importing modules

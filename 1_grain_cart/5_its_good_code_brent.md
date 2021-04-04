@@ -1,4 +1,7 @@
-# Code organization and documentation
+# It's Good Code, Brent
+
+- Code organization
+- Documentation
 
 This thing is starting to get a little long! Identify a chunk or two that you think could be pulled out into a function.
 

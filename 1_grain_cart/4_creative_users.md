@@ -1,4 +1,7 @@
-# First function and improving user experience
+# Creative Users
+
+- First function
+- Improving user experience
 
 Your users are having trouble continuing your script. You find that some people are entering different things than you expected, like:
 

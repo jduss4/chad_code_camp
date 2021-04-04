@@ -1,4 +1,8 @@
-# Variables, Input / Output, Basic Math
+# Hello, Brent
+
+- Variables
+- Input / Output
+- Basic Math
 
 You (Chad) drive a grain cart (Brent) which collects corn from the combine and transfers it to a semi. The semi can legally hold up to __50,000 pounds__.
 

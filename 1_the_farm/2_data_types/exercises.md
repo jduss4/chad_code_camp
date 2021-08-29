@@ -47,7 +47,7 @@ Sometimes, methods may take what's called an argument, like replace:
 
 Just play around with a couple of the things you find, and get used to the idea that you can manipulate integers, floats, and strings, with these Python methods.
 
-## Answer Key
+## Solutions
 
 ### type()
 

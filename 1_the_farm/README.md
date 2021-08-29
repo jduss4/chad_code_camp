@@ -1,3 +1,5 @@
 # Arriving at the Farm
 
-TODO
+- [Lesson 1](1_setup.md): Set up your stuff!
+- [Lesson 2](2_data_types): Data types
+- [Lesson 3](3_variables): Variables + string concatenation

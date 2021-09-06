@@ -1,5 +1,7 @@
 # 1.3 Exercises
 
+After you're done with these, head over to this lesson's [project](project.md)
+
 ## Exercises
 
 ### Names

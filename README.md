@@ -8,6 +8,9 @@ This course spans multiple weeks, and each week is composed of several lessons. 
 - exercises: a set of small, math-homework style problems to work through
 - project: on exciting weeks, you'll have a more involved problem to work on
 
+On the "Friday" or 5th lesson of each week, you will either have a little more practice on tricky concepts, or you will a lesson about being a polite, world-wise programmer. It might be a lesson about how to document your code, or talking about user-centered design -- who knows where my flights of fancy shall take us!
+
+
 Let's get started!!!
 
 ## The basics of programming with Python
@@ -16,7 +19,8 @@ Let's get started!!!
   - [Lesson 1](1_the_farm/1_setup.md): Set up your environment
   - [Lesson 2](1_the_farm/2_data_types): Data types
   - [Lesson 3](1_the_farm/3_variables): Variables + string concatenation
-
+  - [Lesson 4](1_the_farm/4_user_input): User input
+  - [Lesson 5](1_the_farm/5_code_comments.md): Code comments
 
 ## TODO things that I'll be adding as I go
 

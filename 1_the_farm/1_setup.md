@@ -67,3 +67,16 @@ In general, if you're running scripts, you'll want to keep an eye on your termin
 ### print()
 
 While we're on the topic of STDOUT, Python has a handy method called `print()` which allows you to print things to STDOUT. This can help if you want to provide a user information / feedback as part of your script, or just if you want to try to see what's going on with something you're working on.
+
+### comments
+
+Sometimes, it is super useful to be able to add a note in your code. You might need a reminder for yourself, or an explanation about how something works, or just a note to a future programmer apologizing (hopefully you don't need that)!
+
+In Python, you can add code comments by putting `#` at the beginning of a line:
+
+```python
+# this is a code comment
+# and you can have many lines of them
+```
+
+In this course, you'll see I mix code comments in sometimes in examples to help explain different steps.
